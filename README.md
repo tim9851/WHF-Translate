@@ -1,2 +1,2 @@
 # WHF-Translate
-整合中
+整合完成
